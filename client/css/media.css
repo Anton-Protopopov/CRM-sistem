@@ -1,0 +1,32 @@
+@media (max-width: 500px) {
+    .site-modal__content {
+        max-width: 375px;
+        min-width: 300px;
+    }
+
+    .modal__form {
+        max-width: 315px;
+    }
+
+    .contact {
+        width: 315px;
+    }
+
+    .preloader {
+        left: 35%;
+    }
+}
+@media (max-width: 390px) {
+    .site-modal__content {
+        max-width: 315px;
+        min-width: 300px;
+    }
+
+    .modal__form {
+        max-width: 255px;
+    }
+
+    .contact {
+        width: 255px;
+    }
+}
